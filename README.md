@@ -5,14 +5,13 @@
 
 ##
 
-<div>
-  <a href="https://github.com/rodrigovcortezi">
-    <img align="center" height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api?username=rodrigovcortezi&include_all_commits=true&show_icons=true&line_height=28&hide=stars&theme=aura&custom_title=Rodrigo%20Cortezi's%20GitHub%20Stats" />
-  </a>
-  <a href="https://github.com/rodrigovcortezi">
-    <img align="center" height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api/top-langs/?username=rodrigovcortezi&theme=aura&layout=compact&hide_progress=true&langs_count=8&hide=html,css,vue,java,ruby" />
-  </a>
-</div>
+
+<a href="https://github.com/rodrigovcortezi">
+  <img align="center" height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api?username=rodrigovcortezi&include_all_commits=true&show_icons=true&line_height=28&hide=stars&theme=aura&custom_title=Rodrigo%20Cortezi's%20GitHub%20Stats" />
+</a>
+<a href="https://github.com/rodrigovcortezi">
+  <img align="center" height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api/top-langs/?username=rodrigovcortezi&theme=aura&layout=compact&hide_progress=true&langs_count=8&hide=html,css,vue,java,ruby" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
