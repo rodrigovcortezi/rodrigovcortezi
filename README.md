@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/rodrigovcortezi">
-  <img height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api?username=rodrigovcortezi&include_all_commits=true&show_icons=true&line_height=27&hide=stars&theme=aura&custom_title=Rodrigo%20Cortezi's%20GitHub%20Stats" />
-  <img height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api/top-langs/?username=rodrigovcortezi&theme=aura&layout=compact&hide_progress=true&langs_count=8&hide=html,css,vue,java,ruby" />
+  <img align="center" height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api?username=rodrigovcortezi&include_all_commits=true&show_icons=true&line_height=27&hide=stars&theme=aura&custom_title=Rodrigo%20Cortezi's%20GitHub%20Stats" />
+  <img align="center" height="200" src="https://github-readme-stats-murex-xi-61.vercel.app/api/top-langs/?username=rodrigovcortezi&theme=aura&layout=compact&hide_progress=true&langs_count=8&hide=html,css,vue,java,ruby" />
 </div>
 
 <div style="display: inline_block"><br>
